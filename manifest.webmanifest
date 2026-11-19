@@ -1,0 +1,24 @@
+{
+  "name": "Canopy Flap — Forest Bird Adventure",
+  "short_name": "Canopy Flap",
+  "description": "Horizontal forest canopy flight game with cute customizable woodland birds, daily missions, upgrades, and global rankings.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#040e0a",
+  "theme_color": "#0a2318",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
